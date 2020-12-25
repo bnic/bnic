@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bnic/bnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<html>
+<head>
+    <style>
+        .under {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+        }
+
+        .over {
+        position: absolute;
+        left: 385px;
+        top: 265px;
+        z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" height="480" class="under" />
+    <img src="typing_cat.gif" width="200" class="over" />
+</body>
+</html>
