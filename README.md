@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 -->
 </head>
 <body>
+    
+   ![typingCat](typing_cat.gif#thumbnail)
+   
    img[src*="#thumbnail"] {
    width:150px;
    height:100px;
    }
-    
-   ![typingCat](typing_cat.gif#thumbnail)
    
     <!--
     <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" height="480" class="under" />
