@@ -32,7 +32,13 @@ Here are some ideas to get you started:
     </style>
 </head>
 <body>
+  <p float="left">
+    <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" width="100" />
+    <img src="typing_cat.gif" width="100" /> 
+  </p>
+    <!--
     <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" height="480" class="under" />
     <img src="typing_cat.gif" width="200" class="over" />
+    -->
 </body>
 </html>
