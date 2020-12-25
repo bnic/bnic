@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     
-   ![typingCat](typing_cat.gif#thumbnail)
+   ![typingCat](/typing_cat.gif)
    
    img[src*="#thumbnail"] {
    width:150px;
