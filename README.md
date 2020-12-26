@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<table width="100%">
+<table width="100%" align="right">
    <tr>
       <td width="75%">
-         <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" width="100%"/>
+         <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" width="100%" />
       </td>
       <td width="25%" valign="bottom">
-         <img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" />
+         <img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" width="100%" />
       </td>
    </tr>
 <table>
