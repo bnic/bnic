@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif#thumbnail)
 
 img[src*="#thumbnail"] {
    width:150px;
    height:100px;
 }
+
+![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif#thumbnail)
+
    
 <!--
 <html>
