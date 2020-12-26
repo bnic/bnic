@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif)
+
+<!--
 <html>
 <head>
-<!--
+
        <style>
         .under {
         position: absolute;
@@ -31,11 +34,11 @@ Here are some ideas to get you started:
         z-index: -1;
         }
     </style>
--->
+
 </head>
 <body>
     
-   ![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif)
+
    
    img[src*="#thumbnail"] {
    width:150px;
@@ -48,3 +51,4 @@ Here are some ideas to get you started:
     -->
 </body>
 </html>
+-->
