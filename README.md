@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<table width="100%" border="none" cellspacing="0" cellpadding="0">
+<table width="100%">
    <tr>
       <td width="75%">
          <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" width="100%"/>
       </td>
-      <td width="25%" align="bottom">
+      <td width="25%" valign="bottom">
          <img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" />
       </td>
    </tr>
