@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table width="100%" align="right">
+<table width="100%" align="left">
    <tr>
       <td width="75%">
          <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" width="100%" />
