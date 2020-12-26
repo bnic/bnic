@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif)
+![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif#thumbnail)
 
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+   
 <!--
 <html>
 <head>
@@ -38,17 +43,11 @@ Here are some ideas to get you started:
 </head>
 <body>
     
-
    
-   img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-   }
-   
-    <!--
+    
     <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" height="480" class="under" />
     <img src="typing_cat.gif" width="200" class="over" />
-    -->
+    
 </body>
 </html>
 -->
