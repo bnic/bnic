@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table width="100%" style="background-color:black">
+<table width="100%" cellspacing="0" cellpadding="0">
    <tr>
       <td width="75%" align="right">
          <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" width="100%"/>
