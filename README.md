@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     
-   ![typingCat](https://github.com/bnic/bnic/typing_cat.gif)
+   ![typingCat](https://github.com/bnic/bnic/raw/master/typing_cat.gif)
    
    img[src*="#thumbnail"] {
    width:150px;
