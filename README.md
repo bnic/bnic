@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" style="position: absolute; left: 0px; top: 0px; z-index: -1;" alt="textreme" />
-<img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" style="position: absolute; left: 1000px; top: 0px; z-index: 1;" alt="typingcat" />
-
+<table>
+   <tr>
+      <td>
+      <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" />
+      </td>
+      <td>
+      <img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" />
+      </td>
+   </tr>
+<table>
    
 <!--
 <html>
