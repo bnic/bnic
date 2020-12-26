@@ -14,45 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
+<table width="100%">
    <tr>
-      <td>
-      <img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" />
-      </td>
-      <td>
-      <img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" />
-      </td>
+      <td width="75%"><img src="https://raw.githubusercontent.com/bnic/bnic/main/tech_things_fps6_0fuzz_delay0_360w_01.gif" alt="textreme" /></td>
+      <td width="25%"><img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" alt="typingcat" /></td>
    </tr>
 <table>
    
-<!--
-<html>
-<head>
-
-       <style>
-        .under {
-        position: absolute;
-        left: 0px;
-        top: 0px;
-        z-index: -1;
-        }
-
-        .over {
-        position: absolute;
-        left: 385px;
-        top: 265px;
-        z-index: -1;
-        }
-    </style>
-
-</head>
-<body>
-    
-   
-    
-    <img src="tech_things_fps6_0fuzz_delay0_360w_01.gif" height="480" class="under" />
-    <img src="typing_cat.gif" width="200" class="over" />
-    
-</body>
-</html>
--->
