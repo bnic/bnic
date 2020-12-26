@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
-
-![typingCat](https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif#thumbnail)
+<img src="https://raw.githubusercontent.com/bnic/bnic/main/typing_cat.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
    
 <!--
